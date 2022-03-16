@@ -1,45 +1,37 @@
-# Welcome to FUNDLESEARCH!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
-# If you change this file, please restart the server process.
+## Welcome to GitHub Pages
 
-# Site settings
-# are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+You can use the [editor on GitHub](https://github.com/Helidah/Search-engine-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+### Markdown
 
-title      : FUNDLE_SEARCH
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     :HELIDAH
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+```markdown
+Syntax highlighted code block
 
-analytics:
-  google: #Google Analytics tracking code here
+# Header 1
+## Header 2
+### Header 3
 
-collections:
-  portfolio:
+- Bulleted
+- List
 
-markdown: kramdown
+1. Numbered
+2. List
 
-# Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+**Bold** and _Italic_ and `Code` text
 
-plugins:
-  - jekyll-remote-theme
+[Link](url) and ![Image](src)
+```
 
-theme: jekyll-theme-architect
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Helidah/Search-engine-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
