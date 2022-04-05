@@ -11,6 +11,8 @@ Clone this repository into your working directory. Run a PHPMyAdmin website to c
 ## Usage
 Runs in  interactive mode.
 
+## The Experience
+It was exciting to finally figure out how a search engine works. I had never thought about how google and other search engines provided information to my screen with just a few clicks. My favourite part of the project was designing the web scrapper and being able to access websites and store their data. That was quite fascinating for me. 
 
 
 ## AUTHORS
